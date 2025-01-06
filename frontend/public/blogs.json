@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "img": "/image/blog-1.svg",
+      "title": "Mobile App Development",
+      "desc": "Mobile app designed to help users discover and explore local restaurants and cuisines.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 2,
+      "img": "/image/blog2.svg",
+      "title": "Landing Page Development",
+      "desc": "Promotional landing page for a fitness website Summer Campaign. Form development included.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 3,
+      "img": "/image/blog3.svg",
+      "title": "Mobile App Development",
+      "desc": "Mobile app designed to help users discover and explore local restaurants and cuisines.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 4,
+      "img": "/image/blog4.svg",
+      "title": "E-commerce development",
+      "desc": "Ecommerce website offering access to the latest and greatest gadgets and accessories.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 5,
+      "img": "/image/blog-1.svg",
+      "title": "Mobile App Development",
+      "desc": "Mobile app designed to help users discover and explore local restaurants and cuisines.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 6,
+      "img": "/image/blog2.svg",
+      "title": "Landing Page Development",
+      "desc": "Promotional landing page for a fitness website Summer Campaign. Form development included.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 7,
+      "img": "/image/blog3.svg",
+      "title": "Mobile App Development",
+      "desc": "Mobile app designed to help users discover and explore local restaurants and cuisines.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    },
+    {
+      "id": 8,
+      "img": "/image/blog4.svg",
+      "title": "E-commerce development",
+      "desc": "Ecommerce website offering access to the latest and greatest gadgets and accessories.",
+      "content": "Mobile app designed to help users discover and explore local restaurants and cuisines."
+    }
+  ]
+  

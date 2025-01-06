@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 20px; /* Default padding for small screens */
+}
+
+@media (min-width: 640px) {
+  body {
+     padding: 0 90px 0px 90px; /* Padding for larger screens */
+
+  }
+}
